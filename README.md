@@ -4,8 +4,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently fulltime Microverse student
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 I’m currently learning Javascript 
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on interesting projects
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
