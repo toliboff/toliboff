@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently fulltime Microverse student
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 Exploring new technologies and developing software solutions and quick hacks
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on interesting projects
 
