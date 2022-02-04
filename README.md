@@ -3,9 +3,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently fulltime Microverse student
+- 🔭 I’m a full-stack developer
 - 🤔 Exploring new technologies and developing software solutions and quick hacks
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning NodeJS and MongoDB 
 - 👯 I’m looking to collaborate on interesting projects
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Ruby on Rails](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=ruby)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
